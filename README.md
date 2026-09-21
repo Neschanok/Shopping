@@ -6,6 +6,8 @@ React Native-app til at holde styr på ens indkøb: tilføje varer, markere dem 
 
 
 
+
+
 ## Funktioner
 
 - **Home** – liste over varer med checkbox (købt) og slet-funktion
