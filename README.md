@@ -16,7 +16,6 @@ https://github.com/user-attachments/assets/c591953b-c87b-4af5-b3a4-3c6fb68eccd5
 - **Tilføj vare** – formular med navn, mængde og kategori
 - **Indstillinger** – status over listen (antal varer/købte) samt "ryd listen"
 - Navigation: React Navigation (bundfaner)
-- Delt state via React Context (`context/ShoppingListContext.js`)
 - Styling samlet i `styles/styles.js`
 
 ## Kør appen
