@@ -1,7 +1,6 @@
 import React, { createContext, useState } from 'react';
 
-// Deler indkøbslisten mellem alle screens, så vi undgår at sende
-// store data-objekter gennem navigation-params.
+
 export const ShoppingListContext = createContext();
 
 let nextId = 4;
