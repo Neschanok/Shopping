@@ -3,8 +3,10 @@
 React Native-app til at holde styr på ens indkøb: tilføje varer, markere dem som købt, og rydde listen.
 
 ## Demovideo
+https://drive.google.com/file/d/1S-BztR6MXCAH-cjt9ffIQaP19qGHU7YY/view?usp=sharing 
 
 
+https://github.com/user-attachments/assets/c591953b-c87b-4af5-b3a4-3c6fb68eccd5
 
 
 
