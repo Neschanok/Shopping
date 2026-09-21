@@ -37,7 +37,6 @@ export default function AddItemScreen({ navigation }) {
         behavior={Platform.OS === 'ios' ? 'padding' : undefined}
       >
         <Text style={styles.header}>Tilføj vare</Text>
-        <Text style={styles.subHeader}>Udfyld detaljerne og gem på listen</Text>
 
         <Text style={styles.label}>Varenavn</Text>
         <TextInput

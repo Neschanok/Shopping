@@ -30,16 +30,7 @@ export default function SettingsScreen({ navigation }) {
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
         <Text style={styles.header}>Indstillinger</Text>
-        <Text style={styles.subHeader}>Overblik og handlinger for din liste</Text>
-
-        <View style={styles.infoCard}>
-          <Text style={styles.infoTitle}>Om appen</Text>
-          <Text style={styles.infoText}>
-            Indkøbsliste er lavet som en del af en skoleopgave. Appen lader
-            dig tilføje varer, markere dem som købt og holde styr på, hvad
-            der mangler i køleskabet.
-          </Text>
-        </View>
+        <Text style={styles.subHeader}>Overblik og handlinger for din indkøbsliste</Text>
 
         <View style={styles.infoCard}>
           <Text style={styles.infoTitle}>Status</Text>
